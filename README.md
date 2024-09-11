@@ -3,8 +3,6 @@
 ## Overview
 This Python program serves as a Speech Recognition and Voice Assistant application. It allows users to interact with their computer using voice commands, performing tasks such as opening applications, searching the web, and retrieving information from Wikipedia.
 
-## Author
-Anto Jebikshan - [LinkedIn](https://www.linkedin.com/)
 
 ## Date
 January 13, 2024
@@ -65,8 +63,5 @@ Contributions to enhance the application are encouraged. To contribute:
 
 ## License
 This project is for personal and educational use. If you use or modify the code, please provide appropriate credit.
-
-## Credits
-Documented and Programmed by Anto Jebikshan
 
 
