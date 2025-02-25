@@ -8,7 +8,8 @@ This Python program serves as a Speech Recognition and Voice Assistant applicati
 January 13, 2024
 
 ## Description
-The application recognizes speech commands and performs actions based on the recognized input. It can open applications, search the web, provide Wikipedia summaries, and more. The program is designed for project purposes and includes features like voice feedback and command execution.
+The application recognizes speech commands and performs actions based on the recognized input. It can open applications, search the web, provide Wikipedia summaries, and more. 
+The program is designed for project purposes and includes features like voice feedback and command execution.
 
 ## Requirements
 - Python 3.x
