@@ -31,6 +31,7 @@ The program is designed for project purposes and includes features like voice fe
 ## Usage
 
 ### Voice Commands:
+
 - Use commands such as:
   - `"open notepad"` to launch the Notepad application.
   - `"search about [topic] on Google"` to perform a Google search for the specified topic.
